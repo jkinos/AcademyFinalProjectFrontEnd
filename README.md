@@ -1,5 +1,5 @@
 #
-![front page of app](/reseptivihko 2.png "Reseptivihko 2.0")
+![front page of app](/https://github.com/jkinos/AcademyFinalProjectFrontEnd/blob/master/reseptivihko%202.png "Reseptivihko 2.0")
 #
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
